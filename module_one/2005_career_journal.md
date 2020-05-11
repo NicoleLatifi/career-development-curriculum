@@ -13,29 +13,70 @@
 ### Mod 1 Week 1: Understanding your strengths 
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
+
+_Active Listening_
+
 * What is something you know about (list some knowledge/expertise you have)?
+
+_Customer Service_
+
 * What is something you have a natural ability to do well (list a talent)?
+
+_Stay calm_
+
 * How do those combine to create a specific strength?
+
+_I work well with others._
 
 2. Read through your Top 4 results from Pairin
 * In your own words, what do these top 4 qualities tell you about yourself?
+
+_I_
+
 * Do they resonate with you? Why/why not?
+
+_Yes_
+
 * How do they relate to the strength you wrote about in Prompt #1?
+
+_I_
 
 3. Challenges with strengths
 * What can make it challenging to recognize your strengths? How can you work through those challenges?
+
+_It can be challenging to recognize my strengths 
+
 * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
 
 4. Strengths in action
 * Write 1-2 sentences describing how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?)
+
+_all of the above_
+
 * How could you talk about these working preferences with your project teammates? Your mentor? Your instructors?
+
+_I_
+
 * What would you need to be aware of when working with people who have different strengths from you?
+
+_Their schedule._
+
 * How could your Pairin results help you better understand your everyday working preferences?
+
+_I_
 
 5. Continued growth
 * Is there any particular strength you'd like to sharpen while you're at Turing? Any area you consider a weakness that you'd like to strengthen? 
+
+_ability to communicate my strengths and experiences from previous work experiences_
+
 * What are some steps you could take here?
+
+_seek out help from others, keep working through discomfort_
+
 * How could you be aware of progress you're making?
+
+_feedback from others_
 
 ### Mod 1 Week 2: Understanding your values and identity
 
