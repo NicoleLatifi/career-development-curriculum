@@ -100,23 +100,25 @@ _Generally, habits are formed by intentionly doing something on a regular basis 
 First, create you own social identity map on a piece of paper (or [print this out](https://github.com/turingschool/career-development-curriculum/blob/master/files/Social%20Identity%20Map.pdf)):
 * Outer ring: write words that describe your given identity
 
-* _female_
-* _31_
-* _daughter_
-* _sister_
-* _white_
+* _female_-
+* _31_-
+* _daughter_?
+* _sister_?
+* _white_+
+
 
 * Middle ring: list aspects of your chosen identity
 
-* _mother_
-* _Coloradan_
-* _college graduate_
+* _single mother_-
+* _divorced_-
+* _Coloradan_+
+* _college graduate_+
 
 * Center: write your core attributes—traits, behaviors, beliefs, values, characteristics, and skills that you think make you unique as an individual. Select things that are enduring and key to who you are.
 
-* _introverted_
-* _caring_
-* _grit_
+* _introverted_?
+* _caring_?
+* _grit_?
 
 After you complete your map:
 * Underline the items that are important to you
