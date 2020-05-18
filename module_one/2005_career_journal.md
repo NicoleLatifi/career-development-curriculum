@@ -127,25 +127,46 @@ After you complete your map:
 * Put a ? beside the items that you're unsure how they could show your ability to contribute to the tech industry
 
 Reflect:
-* What does your social identity tell you about what you already bring to the tech industry? 
+* What does your social identity tell you about what you already bring to the tech industry?
+
+_I believe that my social identity can fit into the tech industry._
+
 * What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
+
+_At times being introverted can be a plus. In group situations, introverted qualitites can work well with others._
 
 3. Values mapping
 Pull out 5 values for each bullet below from [this list](https://docs.google.com/document/d/1wF1afCu5KqLfDa8rLiOH9ICfIWyjWZRS5Dba7UehYMc/edit?usp=sharing):
-* Always valued:
-* Often valued:
-* Sometimes valued:
-* Seldom valued:
+* Always valued: accomplishment, usefulness, hard work, diligence, excellence
+* Often valued: ambition, initiative, understanding, security, simplicity
+* Sometimes valued: balance, altruism, generoisty, status, temperance
+* Seldom valued: aesthetics, adventure, caution, self-respect, sensitivity
 
 Reflect:
 * What do these values tell you about yourself? 
 
+_I highly value productivity and measureable success. I tend to not place as high of a value on qualities that are harder to quantify such as altruism and sensitivity._
+
 4. Workview & Lifeview
 * Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
+
+_To me, worthwhile work means you are adding something and contributing. I also value problem solving and the sense of accomplishment and mental stimulation it gives you._
+
 * Lifeview: summarize what you value in life; what matters to you?
+
+_The main thing that matters to me is being able to take care of my son and be someone that he can respect and look up to. I think this is something that can be achieved through a career in the tech industry._
+
 * Where do your views on work and life complement each other?
+
+_I hope that I can have a career where I am able to financially provide for my son, model hard work and stability, and still be able to spend quality time with him._
+
 * Where do they clash?
+
+_If their is an expectation for me to have my career as a top priority, that will clash with my other priorities._
+
 * Does one drive the other? How?
+
+_Yes. Before having my son I really had no motivation or regard for myself. He has sparked all the motivation that I have._
 
 ### Mod 1 Week 3: Habits & accountability systems to reach goals
 
