@@ -174,7 +174,20 @@ _Yes. Before having my son I really had no motivation or regard for myself. He h
 _As a software developer, I want to be dependable, skilled, and collaborative. The behaviors I already have in place are I am usually punctual and deliver on what I say I'll do. I also have begun to develop my skills as well as a learning process by which to gain new skills. Finally, I work well with others and need to continue to hone my communication skills._
 
 **Working on the 1st Law of Behavior Change: Make it Obvious**
-* Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral. 
+* Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral.
+
+* _Wake up and check phone_
+* _Get Romin out of his crib_
+* _Check phone_
+* _Feed Romin_
+* _Check phone_
+* _Change Romin's diaper_
+* _Drink some tea or coffee_
+* _If driving, listen to radio or podcast_
+* _Give Romin dinner_
+* _Give Romin bath_
+* _Give Romin bottle_
+* _Put Romin to bed_
 
 * Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)
 
