@@ -188,12 +188,20 @@ _As a software developer, I want to be dependable, skilled, and collaborative. T
 * _Give Romin bath_
 * _Give Romin bottle_
 * _Put Romin to bed_
+* _Straighten up_
+* _Study/do homework_
 
 * Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)
 
-* Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes? 
+_After checking my phone when I first wake up, I will not look at my phone until our morning routine is done. I will do this by using the Forest app and "planting a tree" that will "grow" for an hour._
+
+* Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes?
+
+_I think it would help to have a watch so that I have something else readily available to use to check the time besides my phone. I have an Amazon gift card that I got for my birthday that I can use to buy a wrist watch._
 
 * Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit? 
+
+_It's going to continue to be difficult to not look at my phone because it's the perfect attention grabbing device. I will keep making it a priority._
 
 Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
@@ -201,7 +209,11 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 **Habits of a Software Developer**
 * What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
 
+_Some traits of a software developer are efficiency, teamwork, and continually seeking new information._
+
 * What are the habits that this person demonstrates to embody the identity of a software developer?
+
+_Some habits that embody these traits are time management, empathy, and staying humble and curious._
 
 ### Mod 1 Week 4: Creating a Vision, Part I
 
