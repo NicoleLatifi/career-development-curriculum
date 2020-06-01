@@ -219,6 +219,8 @@ _Some habits that embody these traits are time management, empathy, and staying 
 1. Habits Reflection:
 * How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? 
 
+   _I have recently noticed that when I wake up earlier and go for a walk in the morning, I am more productive throughout the rest of my day. In order to do this, I also need to go to bed as early as possible._
+
 2. Start Where You Are (Empathize with the user -- *you*)
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
     * How would you rate your overall health on a scale of 1-5? How do you currently make time for activities associated with your health? What is a small change you could make here to readjust your health ratings?
@@ -252,18 +254,26 @@ _Right now I don't have much free time but just giving someone even a couple min
 
 3. Define your needs, problem, and insights:
 
-Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program? 
+Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program?
+
+_I would like more experience working with others so that I can gain more confidence with it. I do not know what I want for my career. My main motivation has been financial but there are other things that are important to me._
 
 4.  Ideate -- challenge assumptions   
 
 When you discussed software developers with your small group, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?
 
+_One thing that came up in group discussions is wondering what the differences tend to be between working for a small company and working for a large company. I can learn more about this by talking to people that are currently working in the industry._
+
 5. Prototype -- start creating solutions
 
 What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?
 
+_I hope that I can find a job that will offer financial stability and also balance so that I can spend time with my son and have work-life balance._
+
 5. Test –- solutions
 
 Based on this week of reflections, write out your initial vision statement for your career:
+
+_I don't really know what this would look like._
 
 ### Mod 1 Week 5: Creating a Vision, Part II
