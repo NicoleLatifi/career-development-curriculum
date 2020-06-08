@@ -276,4 +276,32 @@ Based on this week of reflections, write out your initial vision statement for y
 
 _I don't really know what this would look like._
 
-### Mod 1 Week 5: Creating a Vision, Part II
+### Mod 1 Week 5: Creating a Vision, Part II <a name="week-5"></a>
+1. Habits Reflection:
+* How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been?
+
+_I have become more aware of my habits because I have such time is such a scarse resource for me. I am more aware of what I do efficiently and what are time sucks. I am spending much less time on things that are time sucks and spending more time on things that either set me up to have a productive day (i.e. taking a walk first thing in the morning) or things that save me time later (i.e. meal prepping)._
+
+2. Design Thinking Reflection: [Cultivating Beginner's Mind](https://mindfulambition.net/beginners-mind/)
+
+* How can beginner's mind be helpful when it comes to thinking about your career and job search? What are some habits you could put into place to cultivate beginner's mind regularly? 
+
+_Personally, I think that beginners mindset can be helpful when thinking about my career and job search because I can be free of preconceptions. Some preconceptions that may be limiting when job searching are thinking that a certain type of job (i.e. big company, speciic industry) is what I should be seeking or avoiding._
+
+Optional additional reading: [How to Cultivate Beginner's Mind to Become a True Expert](https://medium.com/better-humans/how-to-cultivate-beginners-mind-to-become-a-true-expert-b2e82953318d)
+
+3. Go through the [Flower Exercise brainstorming worksheets linked here](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing). Then complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing) (go to File > Make a copy) and link that finished worksheet here.
+
+https://docs.google.com/document/d/14jgTIjKsoWurL_r9D0rXkunbn9YG_hwwEonx2mAwKP8/edit
+
+4. Write out your top 5 strengths that you've seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?
+
+- learn quickly
+- adapt to group dynamics quickly
+- methodical problem solving
+- attention to detail and precision
+- organized, can create a schedule, stick to it and meet deadlines
+
+5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
+
+I enjoy working with a group and helping others.
