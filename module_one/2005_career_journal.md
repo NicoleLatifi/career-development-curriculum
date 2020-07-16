@@ -348,9 +348,10 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 _Problem solving and how systems work._
 _As an undergrad, I studied Ecology and Evolutionary Biology because I had an interest in the natural world. While studying ecosystems and the process of evolution, I became more and more interested in systems and how things interact with each other on a large scale and how the patterns and structures of systems are similar across different areas of study._
 _After graduating from college, I worked for two small businesses in a variety of roles but mostly enjoyed being a part of the business development and implementation of their websites. I saw how custome_
-__
 
-2. Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the [lesson here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/professional_storytelling_branding.md). 
+2. Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the [lesson here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/professional_storytelling_branding.md).
+
+https://www.linkedin.com/in/nicole-latifi-4152771ab/
 
 3. What other steps will you take this week to update your branding or practice your story?
 
