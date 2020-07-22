@@ -394,7 +394,11 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
 
+_In the PD chat I saw some students recommending keeping their phone out of their bedroom and having their only phone charger be in a different room to force this. I can't even remember the last time I fell asleep without my phone in my hand or woke up and did anything other than check my phone before anything else. If I tried to go to bed with my phone in another room I would lose my mind. That's sad. But it's completely true. I don't have a need to look at my phone constantly throughout the day. But at night when I should be sleeping I have a huge dependency. So maybe a small step to help me move away from that is just to do other things like try reading a book in bed. I'll still have my phone there, but will try to also have a book. This would be ginormous for me because I absolute despise reading. I just can't do it._
+
 2. Implement a reiforcement strategy: to make one of your habits more satisfying, what is a reward you can give yourself immediately after completing the habit? How will this reward encourage you to continue completing that habit?
+
+_Rewards I tend to give myself are things like a snack or a cup of tea. Or I'll watch a short YouTube video but that sometimes sucks me in and I can't pull myself out of it._
 
 3. "Don't Break the Chain": Use a habit tracker
 * What is a habit that you want to make sure to do *every day*? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you've completed it? Could you automate the tracking? How will you do that?
