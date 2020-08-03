@@ -338,10 +338,14 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 - My environment could be improved by getting rid of clutter and organizing things (think Marie Kondo).
 - Get a second monitor.
 
-6. “When you start a new habit, it should take less than two minutes to do.” Read this 4-min article on [how to stop procrastinating](https://jamesclear.com/how-to-stop-procrastinating). Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer? 
+6. “When you start a new habit, it should take less than two minutes to do.” Read this 4-min article on [how to stop procrastinating](https://jamesclear.com/how-to-stop-procrastinating). Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer?
+
+_Thinking about the 2 minute rule in relation to becoming a software developer to me looks like instead of thinking about spending a few hours everyday on developing my skills, just focus on the 2 minutes of opening up my practice problems and writing one line of code or pseudocode. Also, with networking, this can be just everyday spending 2 minutes finding a person or a company to reach out to or research. I honestly don't find this very helpful though because for me this is the easy part and I have absolutely no problem with doing this on a regular basis. What's more challenging is everything that comes after it._
 
 ### Mod 2 Week 2: Professional Storytelling & Branding  <a name="week-2"></a>
-1. Assess your habits from week 1: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
+1. Assess your habits from week 1: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
+
+_I'm continuing to have pretty decent habits but can keep working harder to push myself._
 
 2. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
 
@@ -354,6 +358,8 @@ _After graduating from college, I worked for two small businesses in a variety o
 https://www.linkedin.com/in/nicole-latifi-4152771ab/
 
 3. What other steps will you take this week to update your branding or practice your story?
+
+_I will reach out to a mentor and send them my first version of my story._
 
 ### Mod 2 Week 3: Job Search Strategies <a name="week-3"></a>
 Assess your habits from week 2: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
@@ -406,29 +412,67 @@ _Rewards I tend to give myself are things like a snack or a cup of tea. Or I'll 
  
 4. How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?
 
-5. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable? 
+_Revert back to the 2-minute method, don't beat myself up._
+
+5. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?
+
+_Weekly, through slack message._
 
 ### Mod 2 Week 5: Outreach & Networking I  <a name="week-5"></a>
-Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module? 
+Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module?
+
+_I am very proud of how I spent my time. There is never enough time and I will never get everything done that I want to so my main focus is just to prioritize and minimize time sucks._
 
 Mind Maps:
 * 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+
+_Creating a detailed plan for a small amount of work, but not spending too much time on it, and then executing the plan. Then reevaluating my plan and planning out the next small chunk and kind of scaffolding it out._
+
 * 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+
+_I feel most energized when I solve a problem or work on a piece of a project that helps a group._
+
 * 3. **Flow.** When have you had an experience recently in which you were in a state of flow? You can also think about this as "joy" or "play." Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+
+_What's fun to me is having a plan, a vision of how something is going to be done and then just executing that plan. Like aiming and then firing and bow and arrow. The aiming part takes a little bit of time but then when you release the arrow, if you've set it all up correctly it's pretty smooth and effortless._
 
 Prototype your mind maps: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career? 
 
+_Something that I value is being given time and resources to properly plan. For example, having a detailed understanding of UI/UX and knowing what the end goal is. If I'm trying to work on a project when I don't really understand what the end goal is, it's extremely frustrating._
+
 Prototype your outreach: (Be prepared to share this in your small group discussion)
 * Who comes to mind as a person you can reach out to? Why that person? What questions would you ask them? Come up with 2-3 people here to serve as prototypes
+
+_Ricardo, Mary Allard, Lanae Fehr._
+
 * How would this outreach help you further your job search strategy?
 
+_Practicing telling my story. Get thinking about different industries._
+
 Outreach & Networking Plan: Based on your reflections above, create a concrete plan for your outreach: 
-* Who is the right person for you to reach out to? 
+* Who is the right person for you to reach out to?
+
+_I'm really not sure yet._
+
 * How will you find them? How do you know they’re the right person?
+
+_Ask Emma for a mentor._
+
 * How will you reach out?
+
+_Email. Message on Slack. Message on LinkedIn._
+
 * What questions do you need to ask them?
+
+_Ask about how they got where they are now._
+
 * How will you use this information to further your solution?
+
+_Have an understanding of what path I need to be on._
+
 * How will you follow up? 
+
+_Thank you message._
 
 Execute your plan:
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What other next steps should you take? If this is a person connected to a company you're interested in, be sure to add it to your Huntr card.
