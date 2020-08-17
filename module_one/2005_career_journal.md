@@ -476,3 +476,30 @@ _Thank you message._
 
 Execute your plan:
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What other next steps should you take? If this is a person connected to a company you're interested in, be sure to add it to your Huntr card.
+
+
+# Professional Development Intermission Work for Mod 3
+
+In your career journal, create a new header that reads "Module 3" and respond to the following prompts there. Please complete these prompts by EOD Saturday at the end of intermission. 
+
+## Intermission Reflections 
+1. Please list the top 3-5 industries and companies you'll pursue in your job search as of right now.
+
+_eCommerce_
+
+_Tribe Alpha_
+
+_Uplight_
+
+_bluprint_
+
+_Quantum Metric_
+
+2. Why did you pick the industries/companies that you listed above? How do they relate to the values and goals you have for yourself in your job search?
+
+_Focus on customers._
+
+3. How does your LinkedIn currently reflect your goals and industry interests? What changes will you need to make to your LinkedIn to better reflect these?
+
+_I've tried to write my summary to reflect my focus on customer experience._
+
