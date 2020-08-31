@@ -508,67 +508,15 @@ Answer the below questions in a separate gist and link them into your career jou
 
 Week 1: https://docs.google.com/document/d/19ect3mHdDWB7eWCrxgAc2z_1dR36wXBpK7Xyf0ajPVk/edit?usp=sharing
 
-(completed)
-(partially complete)
-(not started)
+- [x] completed
+- [ ] partially complete
+- [ ] not started
 
-Week 4: [Link here to your gist]
-
-(completed)
-(partially complete)
-(not started)
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you’ll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track):
-
-Prepare for Job Shadow: AEIOU
-Activities: what questions do you have about the activities that a software developer does on a daily basis?
-Environment: what questions do you have about the overall environment and culture of this workplace?
-Interactions: what questions do you have about the team at this company? What do you hope to see in your interactions during the shadow?
-Objects: what questions do you have about the code or the product?
-Users: what questions do you have about how the company interacts with their users?
-After the Job Shadow, reflect on the same questions; what are your takeaways from the shadow?
-Activities: what was engaging to the person/people you shadowed?
-Environment: what did you notice about how they talked about the culture and environment of this company?
-Interactions: what did you notice about your interactions with this person/people?
-Objects: what did you learn about their approach to code and/or product development?
-Users: what did you learn about their approach to their users?
-What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?
-Interview Prep:
-Pick a successful project and write about it with the STAR method (What was the situation/scenario of the project? What was the task/target of the project? What action steps did you take? What were the results?):
-Write about a time you failed and what you learned from that experience:
-Write about how you’ve approached working with a team using a specific example:
-What other stories will you prepare to share?
-Do some research into your top companies’ tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
-Using this interview prep resource doc, pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
-Mod 3 Week 5: Refining Your Strategy
+## Mod 3 Week 2: The Application Process
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 5: [Link here to your gist]
+Week 2: https://docs.google.com/document/d/19ect3mHdDWB7eWCrxgAc2z_1dR36wXBpK7Xyf0ajPVk/edit?usp=sharing
 
-(completed)
-(partially complete)
-(not started)
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you’ll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track):
-
-Taking stock of where you are: what have you accomplished this module? What have you learned? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)?
-
-Create plans for 3 different companies you want to target:
-
-Questions to reflect on here: Why do you like this company? What makes you want to work there? Why are you a good fit for this company? What do you bring to the company? What transferable skills do you have? What do you already know about the company (product, team, culture, company size, location, etc.)? What do you need to learn?
-Steps to take:
-Outreach: look at the company’s LinkedIn page: who could you reach out to? What questions do you want to ask that person?
-Experience: once you’ve made a connection at the company, how could you find out more? Consider setting up a job shadow or exploring their tech stack in your projects
-Read back over the plan. How does it reflect your vision?
-Imagine that you get the job. A year later, what have you gained from this experience? How have you started to fulfill your vision?
-Plan #1:
-
-Plan #2:
-
-Plan #3:
-
-Make it actionable: rank each plan on a scale of 1-5 for how much your plan aligns with the following:
-Available resources to help you pursue it: contacts, time, knowledge of the company, etc.
-Coherence: how it aligns with your career vision
-Confidence level: how feasible does this feel to you?
-How excited you are about it?
-Now, pick the plan with the highest numbers across the board. What steps will you take next to pursue this strategy as you go into the next module?
-
+- [ ] completed
+- [x] partially complete
+- [ ] not started
